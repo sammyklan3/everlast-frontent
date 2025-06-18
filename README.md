@@ -14,26 +14,6 @@
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── assets/ # Static assets (images, logos, etc.)
-├── components/ # Reusable UI components
-├── contexts/ # React Contexts (Auth, App state)
-├── hooks/ # Custom React hooks
-├── layouts/ # Page layouts
-├── pages/ # Route components (Dashboard, Login, etc.)
-├── routes/ # App routing config
-├── services/ # API requests and utility functions
-├── styles/ # Global and shared styles
-├── utils/ # Helpers (formatters, constants)
-├── App.jsx # Root app component
-└── main.jsx # Vite entry point
-
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites

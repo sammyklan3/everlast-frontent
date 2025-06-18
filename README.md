@@ -31,13 +31,14 @@ src/
 └── main.jsx # Vite entry point
 
 
+
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-Make sure you have the following installed:
+Ensure you have the following installed:
 
 - **Node.js** v18+
 - **npm** or **yarn**
@@ -49,28 +50,10 @@ Make sure you have the following installed:
 git clone https://github.com/sammyklan3/everlast-frontend.git
 cd everlast-frontend
 
-```bash
 # Install dependencies
 npm install
 # or
 yarn install
-
-```bash
-### Start the Development Server
-npm run dev
-# or
-yarn dev
-
-### 🔐 Environment Variables
-Create a .env file in the root with your variables:
-```bash
-VITE_API_BASE_URL=https://api.example.com
-
-```bash
-### 📦 Build for Production
-npm run build
-# or
-yarn build
 
 
 

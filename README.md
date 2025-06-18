@@ -12,8 +12,6 @@
 - 🔐 **React Router** — Routing
 - 📦 **ESLint & Prettier** — Code linting and formatting
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
